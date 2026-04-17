@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>TP Grid</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <div class="box box1">
+        <img src="cat.jpg">
+        <h2>Animal</h2>
+        <p>Description de l'animal</p>
+        <button>Voir plus</button>
+    </div>
+    <div class="box box2">
+        <img src="sunset.jpg">
+        <h2>Nature</h2>
+        <p>Description coucher de soleil</p>
+        <button>Voir plus</button>
+    </div>
+    <div class="box box3">
+        <img src="city.jpg">
+        <h2>Ville</h2>
+        <p>Description ville</p>
+        <button>Voir plus</button>
+    </div>
+    <div class="box box4">
+        <img src="rose.jpg">
+        <h2>Food</h2>
+        <p>Description rose</p>
+        <button>Voir plus</button>
+    </div>
+    <div class="box box5">
+        <img src="airplane.jpg">
+        <h2>airplane</h2>
+        <p>Description voyage</p>
+        <button>Voir plus</button>
+    </div>
+    <div class="box box6">
+        <img src="bunny.jpg">
+        <h2>bunny</h2>
+        <p>Description tech</p>
+        <button>Voir plus</button>
+    </div>
+</div>
+</body>
+</html>
