@@ -10,40 +10,39 @@
     <div class="box box1">
         <img src="cat.jpg">
         <h2>chat</h2>
-        <p>Description de l'animal</p>
+        <p>this cat is cute like mine</p>
         <button>Voir plus</button>
     </div>
     <div class="box box2">
         <img src="sunset.jpg">
         <h2>sunset</h2>
-        <p>Description coucher de soleil</p>
+        <p>I love sunset</p>
         <button>Voir plus</button>
     </div>
     <div class="box box3">
         <img src="city.jpg">
         <h2>amsterdam</h2>
-        <p>Description ville</p>
+        <p>if I were a city I would be Amsterdam</p>
         <button>Voir plus</button>
     </div>
     <div class="box box4">
         <img src="rose.jpg">
         <h2>tulip</h2>
-        <p>Description rose</p>
+        <p>tulips is my fav of all time</p>
         <button>Voir plus</button>
     </div>
     <div class="box box5">
         <img src="airplane.jpg">
         <h2>airplane</h2>
-        <p>Description voyage</p>
+        <p>white airplane flying in the sky</p>
         <button>Voir plus</button>
     </div>
     <div class="box box6">
         <img src="bunny.jpg">
         <h2>bunny</h2>
-        <p>Description bunny</p>
+        <p>this cute bunny would make your day</p>
         <button>Voir plus</button>
     </div>
 </div>
 </body>
 </html>
-       
